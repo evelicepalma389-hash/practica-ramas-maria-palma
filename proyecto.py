@@ -1,0 +1,6 @@
+nombre = "johanna lucila"
+apellidos = "portocarrero carranza"
+grupo = "#2"
+año = "1er año 2026"
+fecha = "22-06-2026"
+hora = "4:58pm"
